@@ -1,0 +1,11 @@
+[serial]
+#For windows set a com port such as 'com4', for linux set the path such at '/dev/ttyS0'
+port = com4
+baud = 115200
+
+[logging]
+# Set logging to DEBUG, INFO, WARNING, ERROR, or Critical
+level = DEBUG
+path = test.log
+
+
