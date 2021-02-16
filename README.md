@@ -15,7 +15,7 @@ Instead of connecting the TFT to the micro controller, the screen will be connec
 - Developing phase 1
 - able to communicate with the TFT over a usb to TTL serial adapter
 - framework of the host script at 50%
-- will upload actual code once I have basic's working - for now just createing a git repo to work with.
+- will upload actual code once I have basics working - for now just creating a git repo to work with.
 
 
 ## To Do:
